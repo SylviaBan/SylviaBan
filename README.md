@@ -1,8 +1,8 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*oNCFmKuPz6ydnTytWdnrJQ.webp)](https://sylviaban.io)
+[![MasterHead](https://media.istockphoto.com/id/1200460428/vector/young-long-red-haired-student-girl-in-glasses-headphones-and-blue-t-shirt-sitting-at-the.jpg?s=612x612&w=0&k=20&c=JNsQtrfy1jtyOVOn9T6iVJfh-4DYyon5BGNW2iz6S0Q=)](https://sylviaban.io)
 
-<h1 align="center">Hi 👋, I'm Sylvia !</h1>
-<h3 align="center">A passionate Data & NLP Engineer.</h3>
-img align="right" alt="Coding" width="400" src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9"
+<h1 align="center">Hi 👋, I'm Sylvia Bankowska.</h1>
+<h3 align="center">AI Engineer | NLP | NLU | TAL | TALN</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylviaban&label=Profile%20views&color=0e75b6&style=flat" alt="sylviaban" /> </p>
 
@@ -12,7 +12,7 @@ img align="right" alt="Coding" width="400" src="https://giphy.com/embed/hpXdHPfF
 
 - 👯 I’m looking to collaborate on **NLP / NLU / TAL Machine Learning / Data science projects.**
 
-- 👨‍💻 All of my projects are available at [On Git Hub](On Git Hub)
+- 👨‍💻 All of my projects are available at [Git Hub]Git Hub)
 
 - 📫 How to reach me **sylwiab@gmail.com**
 
