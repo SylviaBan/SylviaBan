@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Chatbot pour réserver les vacances.](https://openclassrooms.com/fr/paths/188-ingenieur-ia)
 
-- 🌱 I’m currently learning **Développer et intégrer des algorithmes de Deep Learning au sein d’un produit IA.**
+- 🌱 I’m currently learning **Comment développer et intégrer des algorithmes de Deep Learning au sein d’un produit IA.**
 
-- 👯 I’m looking to collaborate on **NLP / NLU / TAL Machine Learning / Data science projects.**
+- 👯 I’m looking to collaborate on **NLP / NLU / TAL / Machine Learning / Data science projects.**
 
-- 👨‍💻 All of my projects are available at [Git Hub]Git Hub)
+- 👨‍💻 All of my projects are available at [Git Hub](Git Hub)
 
 - 📫 How to reach me **sylwiab@gmail.com**
 
