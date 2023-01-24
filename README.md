@@ -1,4 +1,6 @@
-[![MasterHead](https://media.istockphoto.com/id/1200460428/vector/young-long-red-haired-student-girl-in-glasses-headphones-and-blue-t-shirt-sitting-at-the.jpg?s=612x612&w=0&k=20&c=JNsQtrfy1jtyOVOn9T6iVJfh-4DYyon5BGNW2iz6S0Q=)](https://sylviaban.io)
+<h1 align="center" span {background: red}>
+  <img alt="Neural" width="600" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBy2VNfLui74hx9frhOQ-0YSNiZLmmTDygQ&usqp=CAU"></>
+
 
 <h1 align="center">Hi 👋, I'm Sylvia Bankowska.</h1>
 <h3 align="center">AI Engineer | NLP | NLU | TAL | TALN</h3>
@@ -6,17 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylviaban&label=Profile%20views&color=0e75b6&style=flat" alt="sylviaban" /> </p>
 
-- 🔭 I’m currently working on [Chatbot pour réserver les vacances.](https://openclassrooms.com/fr/paths/188-ingenieur-ia)
+👉 🔭 I’m currently working on [Chatbot pour réserver les vacances.](https://openclassrooms.com/fr/paths/188-ingenieur-ia)
 
-- 🌱 I’m currently learning **Comment développer et intégrer des algorithmes de Deep Learning au sein d’un produit IA.**
+👉 🌱 I’m currently learning **Comment développer et intégrer des algorithmes de Deep Learning au sein d’un produit IA.**
 
-- 👯 I’m looking to collaborate on **NLP / NLU / TAL / Machine Learning / Data science projects.**
+👉 👯 I’m looking to collaborate on **NLP / NLU / TAL / Machine Learning / Data science projects.**
 
-- 👨‍💻 All of my projects are available at [Git Hub](Git Hub)
+👉 👨‍💻 All of my projects are available [on my GitHub account.]()
 
-- 📫 How to reach me **sylwiab@gmail.com**
+👉 📫 How to reach me **sylwiab@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sylvia-bankowska-80617112/](https://www.linkedin.com/in/sylvia-bankowska-80617112/)
+👉 📄 Know about my experiences [https://www.linkedin.com/in/sylvia-bankowska-80617112/](https://www.linkedin.com/in/sylvia-bankowska-80617112/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
