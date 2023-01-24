@@ -14,7 +14,7 @@
 
 👉 👯 I’m looking to collaborate on **NLP / NLU / TAL / Machine Learning / Data science projects.**
 
-👉 👨‍💻 All of my projects are available [on my GitHub account.]()
+👉 👨‍💻 All of my projects are available at [my **Portfolio**.](https://github.com/SylviaBan/OpenClassrooms)
 
 👉 📫 How to reach me **sylwiab@gmail.com**
 
