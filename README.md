@@ -1,7 +1,3 @@
-<h1 align="center" span {background: red}>
-  <img alt="Neural" width="600" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBy2VNfLui74hx9frhOQ-0YSNiZLmmTDygQ&usqp=CAU"></>
-
-
 <h1 align="center">Hi 👋, I'm Sylvia Bankowska.</h1>
 <h3 align="center">AI Engineer | NLP | NLU | TAL | TALN</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
